@@ -1,0 +1,7 @@
+site_name: DocBrain
+nav:
+    - Início: index.md
+    - Laravel Homesteady: homesteady.md
+
+theme: readthedocs
+
